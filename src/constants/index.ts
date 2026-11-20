@@ -380,6 +380,7 @@ const projects: TProject[] = [
     ],
     image: salenie,
     sourceCodeLink: "https://github.com/Mikebenisberchmans/Sales-genie-v1-Windows-",
+    link:{ label: "demo", url: "https://lnkd.in/p/g8DEkNH7" },
   },
   {
     name: "QueryForge",
@@ -392,6 +393,7 @@ const projects: TProject[] = [
     ],
     image: queryforge,
     sourceCodeLink: "https://github.com/Mikebenisberchmans/Queryforge",
+    link: { label: "demo", url: "https://lnkd.in/p/gMKkVaYg" },
   },
   {
     name: "talent-rank",
@@ -417,6 +419,7 @@ const projects: TProject[] = [
     image: schemaContext,
     sourceCodeLink:
       "https://github.com/Mikebenisberchmans/IDE-Dataplatform-conn-feat-Demo",
+      link: { label: "app", url: "https://ide-dataplatform-conn-feat-demo.vercel.app/" },
   },
   {
     name: "NyayaSetu",

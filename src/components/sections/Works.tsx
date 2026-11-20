@@ -16,6 +16,7 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
   tags,
   image,
   sourceCodeLink,
+  link,
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
@@ -49,7 +50,22 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
           </div>
           <div className="mt-5">
             <h3 className="text-[24px] font-bold text-white">{name}</h3>
-            <p className="text-secondary mt-2 text-[14px]">{description}</p>
+            <p className="text-secondary mt-2 text-[14px]">
+              {description}
+              {link && (
+                <>
+                  {" "}
+                  <a
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-white underline decoration-[#915EFF] underline-offset-4 hover:text-[#915EFF]"
+                  >
+                    {link.label} ↗
+                  </a>
+                </>
+              )}
+            </p>
           </div>
           <div className="mt-auto flex flex-wrap gap-2 pt-4">
             {tags.map((tag) => (

@@ -40,6 +40,7 @@ export type TProject = {
   tags: TTag[];
   image: string;
   sourceCodeLink: string;
+  link?: { label: string; url: string };
 } & Required<Pick<TCommonProps, "name">>;
 
 export type TSkill = {
