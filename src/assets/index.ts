@@ -27,7 +27,6 @@ import azure from "./tech/azure.jpg";
 import aws from "./tech/aws.jpg";
 import python from "./tech/python.jpg";
 import sql from "./tech/sql.png";
-import xgb from "./tech/xgboost.png";
 import pandas from "./tech/pandas.jpg";
 import numpy from "./tech/numpy.png";
 import sklearn from "./tech/scikitlearn.png";
@@ -106,7 +105,6 @@ export {
   pandas,
   numpy,
   sklearn,
-  xgb,
   scipy,
   statsmodels,
   lg,

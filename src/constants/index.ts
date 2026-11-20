@@ -36,7 +36,6 @@ import {
   pandas,
   numpy,
   sklearn,
-  xgb,
   scipy,
   statsmodels,
   lg,
