@@ -16,8 +16,7 @@ Clone it, swap in your own details, and ship it in an afternoon.
 
 </div>
 
-![Portfolio preview](.github/README_ASSETS/3d-portfolio.png)
-
+![Portfolio preview](https://github.com/Mikebenisberchmans/portfolio/blob/main/.github/README_ASSETS/3d-portfolio.png?raw=true)
 ---
 
 ## Table of contents
