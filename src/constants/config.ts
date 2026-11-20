@@ -46,18 +46,18 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "Mike Benis B — Portfolio",
+    title: "Mike's Portfolio",
     fullName: "Mike Benis B",
     email: "mikebenisberchmans@gmail.com",
   },
   socials: {
     github: "https://github.com/Mikebenisberchmans",
-    linkedin: "https://linkedin.com/in/mike-beni",
+    linkedin: "https://linkedin.com/in/mike-benis",
     instagram: "https://www.instagram.com/__mik__al___ben__",
   },
   hero: {
-    name: "Mike Benis B",
-    p: ["I build AI products, agents and", "data pipelines from idea to demo"],
+    name: "Mike",
+    p: ["I build AI & Data products from ideas to real-world deployments"],
   },
   contact: {
     p: "Get in touch",

@@ -20,14 +20,38 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import pytorch from "./tech/pytorch.png";
+import tensorflow from "./tech/tensorflow.png";
+import hf from "./tech/huggingface.jpg"
+import azure from "./tech/azure.jpg";
+import aws from "./tech/aws.jpg";
+import python from "./tech/python.jpg";
+import sql from "./tech/sql.png";
+import xgb from "./tech/xgboost.png";
+import pandas from "./tech/pandas.jpg";
+import numpy from "./tech/numpy.png";
+import sklearn from "./tech/scikitlearn.png";
+import scipy from "./tech/scipy.jpg";
+import statsmodels from "./tech/statsmodel.png";
+import lg from "./tech/langgraph.png";
+import fastapi from "./tech/fastapi.png";
+import flask from "./tech/flask.png"
+import pgs from "./tech/postgres.png";
+import snflk from "./tech/snowflake.png";
+import databricks from "./tech/databricks.png";
+import streamlit from "./tech/streamlit.png";
+import plolty from "./tech/plotly.png";
+import powerbi from "./tech/powerbi.jpg";
+import jupyter from "./tech/jupyter.png";
+import kb from "./tech/kubernetes.png";
+import spark from "./tech/spark.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
-import servicenow from "./company/servicenow.svg";
-import education from "./education.svg";
+import servicenow from "./company/servicenow-1.jpg";
+import education from "./hindusthan.png";
 
 import salenie from "./projects/salenie.svg";
 import queryforge from "./projects/queryforge.svg";
@@ -72,5 +96,30 @@ export {
   nyayaSetu,
   stockPipeline,
   recruitFlow,
+  pytorch,
+  tensorflow,
+  hf,
+  azure,
+  aws,
+  python,
+  sql,
+  pandas,
+  numpy,
+  sklearn,
+  xgb,
+  scipy,
+  statsmodels,
+  lg,
+  fastapi,
+  flask,
+  pgs,
+  snflk,
+  databricks,
+  plolty,
+  streamlit,
+  powerbi,
+  jupyter,
+  kb,
+  spark,
 };
 
