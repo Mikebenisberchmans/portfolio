@@ -16,8 +16,7 @@ Clone it, swap in your own details, and ship it in an afternoon.
 
 </div>
 
-<!-- Add a screenshot or GIF of your site at docs/preview.png, then uncomment the line below. -->
-<!-- ![Portfolio preview](docs/preview.png) -->
+![Portfolio preview](.github/README_ASSETS/3d-portfolio.png)
 
 ---
 
